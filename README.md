@@ -1,6 +1,6 @@
 # Teclado dvorak español para Windows
 
-Este teclado tiene intercambiadas las teclas `escape` y `bloq mayús` para que sea más ergonómico usar Vim.
+Este teclado tiene intercambiadas las teclas `escape` y `bloq mayús` para que sea más ergonómico usar Vim. Es mucho más como mover el meñique izquierdo una tecla hacia la izquierda que al borde del teclado.
 
 ## Instrucciones
 
